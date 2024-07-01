@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e84f4b-3c1d-419f-af06-4b2c9d0b2bb0" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/286.Missing Numbers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/392.IsSequnce.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/485.MaxConsecutiveOnes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/643.MaximumSubarray.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/88.MergeSortedArrya.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/11.ContainerWithMostWater.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1657.TwoStringsAreClose.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/189.Rotating Array.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/2352. Equal Row and Column Pairs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/1732.Highest Altitude.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/724.PivotIndex.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1004. Max Consecutive Ones III.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1456. Maximum Number of Vowels in a Substring of Given Length.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1679. Max Number of K-Sum Pairs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/80.RemoveDuplicatesfromSortedArray2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Techniques/HashMap.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Techniques/PrefixSum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Techniques/Sliding WIndow.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/danis/Desktop/Projects/DSA With Prime/leetcode-typescript&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\danis\\Desktop\\Projects\\DSA With Prime\\leetcode-typescript\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/danis/Desktop/Projects/DSA With Prime/leetcode-typescript",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "ts.external.directory.path": "C:\\Users\\danis\\Desktop\\Projects\\DSA With Prime\\leetcode-typescript\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\danis\Desktop\Projects\DSA With Prime\leetcode-typescript\Medium_TypeScript" />
@@ -88,7 +89,11 @@
       <workItem from="1719394640584" duration="3086000" />
       <workItem from="1719464055256" duration="4222000" />
       <workItem from="1719498072734" duration="1470000" />
-      <workItem from="1719552038374" duration="1144000" />
+      <workItem from="1719552038374" duration="5578000" />
+      <workItem from="1719558131918" duration="3519000" />
+      <workItem from="1719646116784" duration="1377000" />
+      <workItem from="1719649517914" duration="27000" />
+      <workItem from="1719665162214" duration="5514000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
