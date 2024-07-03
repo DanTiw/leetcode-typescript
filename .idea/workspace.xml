@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e84f4b-3c1d-419f-af06-4b2c9d0b2bb0" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/1732.Highest Altitude.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/724.PivotIndex.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1004. Max Consecutive Ones III.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1456. Maximum Number of Vowels in a Substring of Given Length.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1679. Max Number of K-Sum Pairs.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/80.RemoveDuplicatesfromSortedArray2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Techniques/HashMap.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Techniques/PrefixSum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Techniques/Sliding WIndow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/125.ValidPalindrome.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/136.SingleNumber.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/350.IntersectionOFTwoArrays.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/128.LongestConsecutive.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1509. MinimumDifferenceBetweeLargestandSmallestValueinThreeMoves.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/2390.RemoveStarsFromAString.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/735.AsteroidCollision.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +44,14 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/danis/Desktop/Projects/DSA With Prime/leetcode-typescript",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/danis/Desktop/Projects/NextJS/nextjs-dashboard",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Users\\danis\\Desktop\\Projects\\DSA With Prime\\leetcode-typescript\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -94,6 +93,14 @@
       <workItem from="1719646116784" duration="1377000" />
       <workItem from="1719649517914" duration="27000" />
       <workItem from="1719665162214" duration="5514000" />
+      <workItem from="1719821508476" duration="4691000" />
+      <workItem from="1719908516764" duration="349000" />
+      <workItem from="1719916761084" duration="4694000" />
+      <workItem from="1719936761569" duration="170000" />
+      <workItem from="1719983959677" duration="156000" />
+      <workItem from="1719984147014" duration="145000" />
+      <workItem from="1719984309923" duration="74000" />
+      <workItem from="1719984401567" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
