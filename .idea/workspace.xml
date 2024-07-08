@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06e84f4b-3c1d-419f-af06-4b2c9d0b2bb0" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/125.ValidPalindrome.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/136.SingleNumber.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/350.IntersectionOFTwoArrays.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/128.LongestConsecutive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/1509. MinimumDifferenceBetweeLargestandSmallestValueinThreeMoves.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/2390.RemoveStarsFromAString.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/735.AsteroidCollision.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/1518.WaterBottles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy_TypeScript/58. Length of Last Word.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium_TypeScript/739.DailyTemperatuers.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy_TypeScript/20. Valid Parentheses.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Easy_TypeScript/20. Valid Parentheses.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DanTiw&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DanTiw/leetcode-typescript.git&quot;,
+    &quot;accountId&quot;: &quot;e80abfb1-e25a-4083-a75b-5e9db6ed2830&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -40,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/danis/Desktop/Projects/NextJS/nextjs-dashboard",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Users\\danis\\Desktop\\Projects\\DSA With Prime\\leetcode-typescript\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danis/Desktop/Projects/my-portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\danis\\Desktop\\Projects\\DSA With Prime\\leetcode-typescript\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\danis\Desktop\Projects\DSA With Prime\leetcode-typescript\Medium_TypeScript" />
@@ -64,7 +73,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-eef0733dfcaf-JavaScript-WS-242.19890.18" />
       </set>
     </attachedChunks>
   </component>
@@ -101,6 +110,20 @@
       <workItem from="1719984147014" duration="145000" />
       <workItem from="1719984309923" duration="74000" />
       <workItem from="1719984401567" duration="60000" />
+      <workItem from="1720069100914" duration="445000" />
+      <workItem from="1720096825493" duration="2522000" />
+      <workItem from="1720151271943" duration="616000" />
+      <workItem from="1720165573195" duration="145000" />
+      <workItem from="1720165732972" duration="70000" />
+      <workItem from="1720182061549" duration="265000" />
+      <workItem from="1720182340456" duration="3668000" />
+      <workItem from="1720337888333" duration="917000" />
+      <workItem from="1720350022127" duration="116000" />
+      <workItem from="1720362658556" duration="113000" />
+      <workItem from="1720362836230" duration="142000" />
+      <workItem from="1720370414448" duration="91000" />
+      <workItem from="1720443320547" duration="389000" />
+      <workItem from="1720443813402" duration="350000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
